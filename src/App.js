@@ -31,7 +31,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <h1>Mosters Rolodex</h1>
+        <h1>Monsters Rolodex</h1>
 
         <SearchBox
           placeholder="Search Monsterssss"
